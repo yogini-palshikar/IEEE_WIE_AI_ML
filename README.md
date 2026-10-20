@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification: Decision Tree vs. KNN
+# Iris Flower Classification: Decision Tree vs. KNN
 
 A beginner-friendly machine learning project that predicts the **species of an iris flower** from four measurements, and compares two simple models: a **Decision Tree** and **K-Nearest Neighbors (KNN)**.
 
